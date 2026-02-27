@@ -1,6 +1,6 @@
 {
   "values": [
-    "b/function_1",
+    "b/load",
     "b/function_2"
   ]
 }
