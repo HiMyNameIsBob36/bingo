@@ -3,7 +3,7 @@
 	"header": {
 		"name": "§l§sBINGO§r",
 		"description": "§l§sWelcome!§r\n\nHaving issues? Use §s/function help§r",
-		"uuid": "187f50b2-5d6d-4ab7-a7f1-b2f761799e4b",
+		"uuid": "52f4217d-7bc4-484d-992b-a9b78c4cfcda",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 20, 0]
 	},
@@ -11,7 +11,7 @@
 		{
 			"description": "data",
 			"version": [1, 0, 0],
-			"uuid": "187f50b2-5d6d-4ab7-a7f1-b2f761799e4b",
+			"uuid": "52f4217d-7bc4-484d-992b-a9b78c4cfcda",
 			"type": "data"
 		}
 	]
