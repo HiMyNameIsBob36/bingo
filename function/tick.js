@@ -1,6 +1,6 @@
 {
   "values": [
-    "wiki/function_1",
-    "wiki/function_2"
+    "b/function_1",
+    "b/function_2"
   ]
 }
