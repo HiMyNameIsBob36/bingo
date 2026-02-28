@@ -1,10 +1,10 @@
 ## Spawning Stands
-execute if entity @a[tag=red] run summon armor_stand spawn.red ~~~
-execute if entity @a[tag=blue] run summon armor_stand spawn.blue ~~~
-execute if entity @a[tag=green] run summon armor_stand spawn.green ~~~
-execute if entity @a[tag=yellow] run summon armor_stand spawn.yellow ~~~
+execute if entity @a[tag=red] at @e[type=armor_stand,name="spawn.lobby"] run summon armor_stand spawn.red ~~~
+execute if entity @a[tag=blue] at @e[type=armor_stand,name="spawn.lobby"] run summon armor_stand spawn.blue ~~~
+execute if entity @a[tag=green] at @e[type=armor_stand,name="spawn.lobby"] run summon armor_stand spawn.green ~~~
+execute if entity @a[tag=yellow] at @e[type=armor_stand,name="spawn.lobby"] run summon armor_stand spawn.yellow ~~~
 ## Spreading Stands
-spreadplayers
+execute at @e[type=armor_stand,name="spawn.lobby"] run spreadplayers 
 ## TP Players to Stands
 tp @a[tag=red] @e[type=armor_stand,name="spawn.red"] 
 tp @a[tag=blue] @e[type=armor_stand,name="spawn.blue"] 
