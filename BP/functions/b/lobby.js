@@ -1,5 +1,5 @@
 ## RED
-execute at @a if block ~~-1~ red_concrete run tellraw @s[tag=!red] {"rawtext":[{"text":"§lGAME §r§s>> §rJlined §cRED§r team."}]}
+execute as @a at @s if block ~~-1~ red_concrete run tellraw @s[tag=!red] {"rawtext":[{"text":"§lGAME §r§s>> §rJlined §cRED§r team."}]}
 execute at @a if block ~~-1~ red_concrete run tag @s add red
 execute at @a if block ~~-1~ red_concrete run tag @s remove blue
 execute at @a if block ~~-1~ red_concrete run tag @s remove green
