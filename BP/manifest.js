@@ -1,7 +1,7 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "§l§sBINGO§r",
+		"name": "§l§sItem Rush§r",
 		"description": "§l§sWelcome!§r\n\nHaving issues? Use §s/function help§r",
 		"uuid": "52f4217d-7bc4-484d-992b-a9b78c4cfcda",
 		"version": [1, 0, 0],
