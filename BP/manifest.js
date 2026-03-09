@@ -3,7 +3,7 @@
 	"header": {
 		"name": "§l§sItem Rush§r",
 		"description": "§l§sWelcome! ITEM RUSH§r is a fun 2+ player game. Race to collect your item before the hunters catch you!\n§rHaving issues? Use §s/function help§r",
-		"uuid": "52f4217d-7bc4-484d-992b-a9b78c4cfcda",
+		"uuid": "8aa93a45-22a7-4814-a3cf-7b7a5c9f2c79",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 20, 0]
 	},
@@ -11,7 +11,7 @@
 		{
 			"description": "data",
 			"version": [1, 0, 0],
-			"uuid": "b21b7a2e-b2fd-4971-81c3-8590c9ec5a60",
+			"uuid": "c11de555-16ec-4f81-8306-59486517f2c7",
 			"type": "data"
 		}
 	]
