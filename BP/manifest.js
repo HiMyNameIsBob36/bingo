@@ -4,7 +4,7 @@
 		"name": "§l§sItem Rush§r",
 		"description": "§l§sWelcome! ITEM RUSH§r is a fun 2+ player game. Race to collect your item before the hunters catch you!\n§rHaving issues? Use §s/function help§r",
 		"uuid": "8aa93a45-22a7-4814-a3cf-7b7a5c9f2c79",
-		"version": [1, 0, 0],
+		"version": [1, 0, 0]
 	},
 	"modules": [
 		{
