@@ -1,7 +1,7 @@
 {
   "values": [
     "rush/check",
-    "rush/scores",
+    "rush/timers",
     "rush/display",
     "rush/end"
   ]
