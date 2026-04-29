@@ -2,8 +2,8 @@
 	"format_version": 2,
 	"header": {
 		"name": "§l§7Item Chase§r",
-		"description": "§l§6(!) Note: §r§gThis texture pack is §l§onot§r required, turn it off in the behavour pack settings!",
-		"uuid": "8aa93a45-22a7-4814-a3cf-7b7a5c9f2c79",
+		"description": "§l§6(!) Note: §r§gThis texture pack is §l§onot§r required, just highly recogmended for a better experience!",
+		"uuid": "86278ebd-9e11-4034-8e2d-b2154349aed3",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 20, 0]
 	},
@@ -11,8 +11,8 @@
 		{
 			"description": "resources",
 			"version": [1, 0, 0],
-			"uuid": "c11de555-16ec-4f81-8306-59486517f2c7",
-			"type": "data"
+			"uuid": "687e950a-55c2-4599-947a-b5897114af88",
+			"type": "resources"
 		}
 	]
 }
